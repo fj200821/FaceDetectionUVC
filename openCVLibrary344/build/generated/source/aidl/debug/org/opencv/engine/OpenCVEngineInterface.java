@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\dev\\projects\\android\\workspace\\FaceDetectionUVC\\openCVLibrary344\\src\\main\\aidl\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
+ * Original file: /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/openCVLibrary344/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**

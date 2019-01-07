@@ -1,32 +1,32 @@
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/obj/local/arm64-v8a/objs/jpeg-turbo1500_static/jdhuff.o: \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jdhuff.c \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jinclude.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/include\jconfig.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpeglib.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jmorecfg.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpegint.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jerror.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jdhuff.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/include\jconfigint.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpegcomp.h \
-  C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jstdhuff.c
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/obj/local/arm64-v8a/objs/jpeg-turbo1500_static/jdhuff.o: \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jdhuff.c \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jinclude.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/include/jconfig.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpeglib.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jmorecfg.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpegint.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jerror.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jdhuff.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/include/jconfigint.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpegcomp.h \
+  /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jstdhuff.c
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jinclude.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jinclude.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/include\jconfig.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/include/jconfig.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpeglib.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpeglib.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jmorecfg.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jmorecfg.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpegint.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpegint.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jerror.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jerror.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jdhuff.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jdhuff.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/include\jconfigint.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/include/jconfigint.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpegcomp.h:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jpegcomp.h:
 
-C:/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jstdhuff.c:
+/home/incognito/dev/projects/android/workspace/FaceDetectionUVC/libuvccamera/src/main/jni/libjpeg-turbo-1.5.0/jstdhuff.c:

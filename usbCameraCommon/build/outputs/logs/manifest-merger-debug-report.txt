@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
-INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
-INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+ADDED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
 	package
-		ADDED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml:24:11-52
-		INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
-		INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
+		ADDED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml:24:11-52
+		INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+		ADDED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
 uses-sdk
-INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
-INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
-INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
-INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
+INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
-		ADDED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
-		INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
+		ADDED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
-		ADDED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
-		INJECTED from C:\dev\projects\android\workspace\FaceDetectionUVC\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
+		ADDED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /home/incognito/dev/projects/android/workspace/FaceDetectionUVC/usbCameraCommon/src/main/AndroidManifest.xml

@@ -4,11 +4,11 @@
 # Sets the minimum version of CMake required to build the native library.
 
 cmake_minimum_required(VERSION 3.4.1)
+#set(ANDROID_ABI x86_64)
+set(pathPROJECT /home/incognito/dev/projects/android/workspace/FaceDetectionUVC)
+set(pathOPENCV /home/incognito/dev/libs/OpenCV-android-sdk)
 
-set(pathPROJECT C:/dev/projects/android/workspace/FaceDetectionUVC)
-set(pathOPENCV C:/Users/$ENV{USERNAME}/Downloads/OpenCV-android-sdk)
-
-set(pathLIBOPENCV_JAVA ${pathPROJECT}/app/src/main/JniLibs/${ANDROID_ABI}/libopencv_java3.so)
+set(pathLIBOPENCV_JAVA ${pathPROJECT}/app/src/main/jniLibs/${ANDROID_ABI}/libopencv_java3.so)
 
 set(CMAKE_VERBOSE_MAKEFILE on)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=gnu++11")
